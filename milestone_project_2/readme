@@ -1,0 +1,9 @@
+This milestone project is a recreation of game called "War" (https://en.wikipedia.org/wiki/War_(card_game))
+The objective of game is to win all cards.
+Two players evenly divide the deck of 52 cards.
+Then every player reveals the top card of their deck. The player who revealed a higher card,
+takes both cards and adds them to the bottom of their deck.
+If both cards are of the same value, then there is a "war":
+both players put aside next three cards face down and reveal next card. The owner of the higher face-up card takes
+all 8 cards (two cards face-up and six cards face-down).
+Game ends when one of the players loose all their cards.
